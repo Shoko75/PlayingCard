@@ -14,6 +14,7 @@
 		2F7E9886230DE0AC009B5DB5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F7E9884230DE0AC009B5DB5 /* LaunchScreen.storyboard */; };
 		2F7E9890230DE15E009B5DB5 /* PlayingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F7E988F230DE15E009B5DB5 /* PlayingCard.swift */; };
 		2F7E9892230DE98C009B5DB5 /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F7E9891230DE98C009B5DB5 /* PlayingCardDeck.swift */; };
+		2F7E9894230DF906009B5DB5 /* PlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F7E9893230DF906009B5DB5 /* PlayingCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2F7E9887230DE0AC009B5DB5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F7E988F230DE15E009B5DB5 /* PlayingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCard.swift; sourceTree = "<group>"; };
 		2F7E9891230DE98C009B5DB5 /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
+		2F7E9893230DF906009B5DB5 /* PlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				2F7E988F230DE15E009B5DB5 /* PlayingCard.swift */,
+				2F7E9893230DF906009B5DB5 /* PlayingCardView.swift */,
 				2F7E9891230DE98C009B5DB5 /* PlayingCardDeck.swift */,
 				2F7E987B230DE0AB009B5DB5 /* AppDelegate.swift */,
 				2F7E987D230DE0AB009B5DB5 /* ViewController.swift */,
@@ -152,6 +155,7 @@
 				2F7E987E230DE0AB009B5DB5 /* ViewController.swift in Sources */,
 				2F7E9892230DE98C009B5DB5 /* PlayingCardDeck.swift in Sources */,
 				2F7E9890230DE15E009B5DB5 /* PlayingCard.swift in Sources */,
+				2F7E9894230DF906009B5DB5 /* PlayingCardView.swift in Sources */,
 				2F7E987C230DE0AB009B5DB5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
